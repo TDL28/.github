@@ -1,5 +1,14 @@
-<img src='images/contract.png' alt='tdl28' height='300px' width='800px'>
-
 # TDL 28
 
 A collection of helpful repositories with starter code and basic frameworks to get you started on a variety of projects.
+
+## Contents
+
+
+### Web Frameworks
+- [Flask](https://github.com/TDL28/flask-basic) - A basic Flask web application with a simple structure to get you started. Check out the different branches for different approaches and outcomes. (Python)  
+- [FastAPI](https://github.com/TDL28/fast-api-basic) - A sample REST API using FastAPI. (Python)
+- [Node.js](https://github.com/TDL28/nodejs-basic) - Roughly the same as the Flask repository, but for Node.js using Express. (JavaScript)
+
+### Data Science
+- [H3](https://github.com/TDL28/uber-h3-example) - A simple example of using Uber's H3 library and geopandas to interact with data. (Jupyter Notebook)
