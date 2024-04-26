@@ -14,4 +14,5 @@ A collection of helpful repositories with starter code and basic frameworks to g
 - [H3](https://github.com/TDL28/uber-h3-example) - A simple example of using Uber's H3 library and geopandas to interact with data. (Jupyter Notebook)
 
 ### Real Projects
-- [Flight Logs](https://github.com/TDL28/flight_logs) - a website built with flask that helps users store and parse blackbox flight logs (.BBL) files.
+- [Flight Logs](https://github.com/TDL28/flight_logs) - a website built with flask that helps users store and parse blackbox flight logs (.BBL) files. (Flask/JavaScript)
+- [Log Uploader](https://github.com/TDL28/log_uploader) - the upload portion of the Flight Logs site, intended for containerization and deployment. (Flask/SQLAlchemy)
